@@ -13,7 +13,7 @@ const View1 = () => (
 
 const View2 = () => (
   <View style={styles.view2}>
-    <Text style={styles.text}>Thanks for using my app!! :D</Text>
+    <Text style={styles.text}>Thanks for using my app!</Text>
   </View>
 );
 
